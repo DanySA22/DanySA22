@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## 🛠 Technologies and Tools I Use
+- Programming & Scripting Languages: JavaScript, Python, Bash
+- Frameworks: React, Node.js/Express.js, Django.
+- Tools & Technologies: Git, VS Code, MySQL, MongoDB, Jira, Amazon Web Services 
+
+## 📈 My GitHub Stats
 <!--
 **DanySA22/DanySA22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
