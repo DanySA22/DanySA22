@@ -1,6 +1,6 @@
 ### Hi there 👋. 
 
-## :black_man: About me
+## About me :walking:
 
 My name is Daniel. I am one of those passionate people for learning and building useful things but what characterizes me the most is my discipline and persistence. 
 I enjoy the IT field and progamming, I really do, it gives me the opportunity to constantly learn and resolve issues at the same time as helping others.
@@ -14,10 +14,10 @@ I enjoy the IT field and progamming, I really do, it gives me the opportunity to
 
 ## 📈 My GitHub Stats
 
-## Get in Touch
- LinkedIn: 
- Email:
- Portfolio Website: 
+## :sunny: Get in Touch
+ LinkedIn: [Daniel Savignon Araujo](https://www.linkedin.com/in/daniel-savignon-araujo/)
+ Email: [danielsavignon24@gmail.com](mailto:danielsavignon24@gmail.com)
+ Portfolio Website: (https://danieldevcloud.com/)
  
 <!--
 **DanySA22/DanySA22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
