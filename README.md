@@ -14,9 +14,15 @@ I enjoy the IT field and progamming, I really do, it gives me the opportunity to
 
 ## 📈 My GitHub Stats
 
+![DanySA22's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanySA22&show_icons=true)
+
+
+
 ## :sunny: Get in Touch
  LinkedIn: [Daniel Savignon Araujo](https://www.linkedin.com/in/daniel-savignon-araujo/)
+ 
  Email: [danielsavignon24@gmail.com](mailto:danielsavignon24@gmail.com)
+ 
  Portfolio Website: (https://danieldevcloud.com/)
  
 <!--
